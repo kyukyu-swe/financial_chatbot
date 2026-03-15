@@ -1,4 +1,4 @@
-# Omise Merchant Support Chatbot
+# Merchant Support Chatbot
 
 A demo AI chatbot where merchants can ask questions about their transaction history and Omise API documentation in natural language. A **Router Agent** (built with LangGraph) classifies the intent of each question and routes it to the correct data source — a live SQLite database or a local ChromaDB vector store.
 
